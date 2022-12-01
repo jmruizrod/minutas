@@ -1,0 +1,28 @@
+#left-section{
+  float: right;
+  margin: 10px;
+}
+#rigth-section{
+  float: left;
+  margin: 10px;
+}
+#center-section{
+  margin: 0 auto;
+  border: 10px solid #EEE;
+}
+
+#box1{
+  display: inline-block;
+  padding: 32px 32px 32px 32px;
+  border: 1px solid #EEE;
+}
+
+#box2{
+  display: inline-block;
+  padding: 32px 48px 0px 48px;
+  border: 1px solid #000;
+}
+
+.bordes{
+	margin-bottom: 80px;
+}
